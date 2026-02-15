@@ -1,7 +1,5 @@
 # ML_Assignment_2
 repo for ML assignment
-# ML_Assignment_2
-repo for ML assignment
 # ML Assignment 2 - Classification Models Dashboard
 
 ## Problem Statement
